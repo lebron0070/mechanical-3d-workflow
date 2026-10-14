@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用机械3D建模与交互生成"
+  short_description: "按指定对象生成可编辑机械模型、拆解运转网页及可选变形音效录制"
+  default_prompt: "使用 $mechanical-3d-workflow，根据我指定的对象和交互需求生成可编辑模型与可运行成果，验证拆解、运转和实际导出，不默认添加双形态。"
